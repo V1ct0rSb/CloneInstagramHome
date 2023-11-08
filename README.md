@@ -2,7 +2,8 @@
   
   <p>Este é um projeto simples de clone da página de login do Instagram, criado com HTML e CSS. Ele reproduz a aparência da página de login do Instagram, incluindo campos de entrada para nome de usuário, senha e um botão de login.</p>
 
-  <img src="./assets/img/banner2.png" alt="Instagram Clone" />
+ ![01](https://github.com/V1ct0rSb/CloneInstagramHome/assets/112266976/49b95d86-3090-4bc0-aa48-50e6d73474ba)
+
 
   <h2>Instruções de Uso</h2>
   <ol>
