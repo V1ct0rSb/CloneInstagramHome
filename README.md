@@ -8,9 +8,7 @@
   <h2>Instruções de Uso</h2>
   <ol>
     <li>Clone este repositório para o seu computador:
-      <pre>
-        git clone https://github.com/seu-usuario/instagram-clone.git
-      </pre>
+      <code>git clone https://github.com/seu-usuario/instagram-clone.git</code>
     </li>
     <li>Abra o arquivo <code>index.html</code> no seu navegador para ver a página de login.</li>
   </ol>
