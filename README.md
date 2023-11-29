@@ -1,4 +1,4 @@
-<h1>Instagram Clone</h1>
+<h1>Clone do Login do Instagram</h1>
   
   <p>Este é um projeto simples de clone da página de login do Instagram, criado com HTML e CSS. Ele reproduz a aparência da página de login do Instagram, incluindo campos de entrada para nome de usuário, senha e um botão de login.</p>
 
